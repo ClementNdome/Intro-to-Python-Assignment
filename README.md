@@ -11,4 +11,4 @@ This is a simple Python program that allows the user to perform basic arithmetic
 ## How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/YOUR_REPO.git
+   git clone https://github.com/ClementNdome/Intro-to-Python-Assignment.git
